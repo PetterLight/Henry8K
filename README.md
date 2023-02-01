@@ -22,7 +22,7 @@
 
 ---
 
-[![Streak](https://streak-stats.demolab.com/?user=Henry8K&theme=algolia)](https://www.github.com/Henry8K/)
+![Streak](https://streak-stats.demolab.com/?user=Henry8K&theme=algolia)
 
 ---
 
